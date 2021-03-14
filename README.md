@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/github/stars/SpotifyNutzeer?style=plastic"</img>
     <img src="https://img.shields.io/github/watchers/SpotifyNutzeer/MinecraftCore?style=plastic"</img>
     <img src="https://img.shields.io/twitter/follow/SpotifyNutzer?style=plastic"</img>
+    <img src="https://img.shields.io/discord/793782613738913805?style=plastic"</img>
 </p>
 <h1 align=center>🔗 Links: 🔗</h1>
 <p align=center>
