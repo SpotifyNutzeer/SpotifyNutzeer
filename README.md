@@ -5,7 +5,7 @@
 <h1 align=center>🔗 Links: 🔗</h1>
 <p align=center>
     <a href="https://discord.pvptraining.eu">Discord</a>
-    <a href= https://twitter.com/spotifynutzer">Twitter</a>
+    <a href="https://twitter.com/spotifynutzer?lang=de">Twitter</a>
     <a href="https://twitch.tv/daaneben">Twitch</a>
 </p>
 
