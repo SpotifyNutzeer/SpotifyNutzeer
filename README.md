@@ -1,5 +1,5 @@
 <h2 align=center>Hey</h2>
-<img src="https://www.dafont.com/forum/attach/orig/7/8/785505.jpg"</img>
+<img src="https://i.pinimg.com/originals/fb/98/6f/fb986f7e927c758ad3eb83957b916bcb.png"</img>
 <p align=center>Links:</p>
 <p align=center>
     <a href="https://discord.pvptraining.eu">Discord</a>
