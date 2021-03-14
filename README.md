@@ -1,5 +1,7 @@
 <h2 align=center>👋 Hey 👋</h2>
-<img src="https://i.pinimg.com/originals/fb/98/6f/fb986f7e927c758ad3eb83957b916bcb.png"</img>
+<p align=center>
+    <img src="https://i.pinimg.com/originals/fb/98/6f/fb986f7e927c758ad3eb83957b916bcb.png"</img>
+</p>
 <p align=center>🔗 Links: 🔗</p>
 <p align=center>
     <a href="https://discord.pvptraining.eu">Discord</a>
