@@ -17,9 +17,10 @@
 - I'm hosting my Projects on [Tube-Hosting](https://tube-hosting.de)
 - I'm currently working on a Minecraft Core API 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpotifyNutzeer&repo=MinecraftCore&theme=dark)](https://github.com/SpotifyNutzeer/MinecraftCore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpotifyNutzeer&repo=MinecraftCore&theme=dark)](https://github.com/SpotifyNutzeer/MinecraftCore) 
 
 ## 📊 Stats 📊
 ![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=true&theme=dark) 
+
+
 [![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotifyNutzeer&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
