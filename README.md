@@ -2,6 +2,14 @@
 <p align=center>
     <img src="https://i.pinimg.com/originals/fb/98/6f/fb986f7e927c758ad3eb83957b916bcb.png"</img>
 </p>
+<h2 align=center>📊 Social Stats 📊</h2>
+
+<p align=center>
+    <img src="https://img.shields.io/github/followers/SpotifyNutzeer?style=plastic"</img>
+    <img src="https://img.shields.io/github/stars/SpotifyNutzeer?style=plastic"</img>
+    <img src="https://img.shields.io/github/watchers/SpotifyNutzeer/MinecraftCore?style=plastic"</img>
+    <img src="https://img.shields.io/twitter/follow/SpotifyNutzer?style=plastic"</img>
+</p>
 <h1 align=center>🔗 Links: 🔗</h1>
 <p align=center>
     <a href="https://discord.pvptraining.eu">Discord</a>
