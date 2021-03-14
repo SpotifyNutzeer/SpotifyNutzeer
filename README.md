@@ -23,3 +23,5 @@
 ![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=true&theme=dark) 
 
 [![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotifyNutzeer&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpotifyNutzeer&theme=dark)
