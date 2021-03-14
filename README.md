@@ -8,7 +8,5 @@
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpotifyNutzeer&repo=MinecraftCore)](https://github.com/SpotifyNutzeer/MinecraftCore)
-
-![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=true&theme=react)
-
+![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=true&theme=react) 
 ![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotifyNutzeer&langs_count=8&theme=react)
