@@ -27,3 +27,4 @@
 
 ![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotifyNutzeer&langs_count=8&theme=dark&layout=compact)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jc3ievj9bt966e41ggwv2m4nk)
