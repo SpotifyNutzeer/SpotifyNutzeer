@@ -20,7 +20,7 @@
 
 <h2 align=center> ℹ️ Information about me ℹ️</h2>
 
-- I'm currently working on my Server [PvPTraining.eu](https://discord.pvptraining.xyz).
+- Join my [Discord Server](https://discord.pvptraining.xyz).
 - I'm 16 Years young c:
 - I'm still lerning after 3 years of Experience
 - I'm hosting my Projects on [Tube-Hosting](https://tube-hosting.de)
