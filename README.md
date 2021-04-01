@@ -27,14 +27,14 @@
 - I'm hosting my Projects on [Tube-Hosting](https://tube-hosting.de)
 - I'm currently working on a Minecraft Core API 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpotifyNutzeer&repo=MinecraftCore&theme=dark)](https://github.com/SpotifyNutzeer/MinecraftCore) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpotifyNutzeer&repo=MinecraftCore&theme=ayu-mirage)](https://github.com/SpotifyNutzeer/MinecraftCore) 
 
 <h1 align=center>📊 Stats 📊</h1>
 
-![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=true&theme=dark) 
+![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=True&theme=ayu-mirage)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpotifyNutzeer&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpotifyNutzeer&theme=ayu-mirage)
 
-![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotifyNutzeer&langs_count=8&theme=dark)
+![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpotifyNutzeer&langs_count=8&theme=ayu-mirage)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jc3ievj9bt966e41ggwv2m4nk)
