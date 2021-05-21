@@ -31,6 +31,8 @@
 
 <h1 align=center>📊 Stats 📊</h1>
 
+![Wakatime](https://wakatime.com/share/@f331fd0d-4435-43c7-b83f-622722c10a4c/b506a48b-4670-4a63-9096-b205eb074766.png)
+
 ![Activity Card](https://github-readme-stats.vercel.app/api?username=SpotifyNutzeer&show_icons=True&theme=ayu-mirage)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpotifyNutzeer&theme=ayu-mirage)
