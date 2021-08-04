@@ -17,6 +17,7 @@
     <a href="https://discord.pvptraining.eu">Discord</a>
     <a href="https://twitter.com/spotifynutzer?lang=de">Twitter</a>
     <a href="https://twitch.tv/daaneben">Twitch</a>
+    <a href="https://spotifynutzer.xyz">Website</a>
 </p>
 
 <h2 align=center> ℹ️ Information about me ℹ️</h2>
