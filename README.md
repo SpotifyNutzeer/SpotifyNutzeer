@@ -23,7 +23,7 @@
 <h2 align=center> ℹ️ Information about me ℹ️</h2>
 
 - Join my [Discord Server](https://discord.pvptraining.xyz).
-- I'm 17 Years young c:
+- I'm 19 Years young c:
 - I'm still lerning after 4 years of Experience
 - I'm hosting my Projects on [Tube-Hosting](https://tube-hosting.de)
 - I'm currently working on a Minecraft Core API 
