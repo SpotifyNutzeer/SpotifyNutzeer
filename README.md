@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/github/stars/SpotifyNutzeer?style=plastic"</img>
     <img src="https://img.shields.io/github/watchers/SpotifyNutzeer/MinecraftCore?style=plastic"</img>
     <img src="https://img.shields.io/twitter/follow/SpotifyNutzer?style=plastic"</img>
-    <img src="https://img.shields.io/discord/793782613738913805?style=plastic"</img>
-
 </p>
 
 <h2 align=center> ℹ️ Information about me ℹ️</h2>
